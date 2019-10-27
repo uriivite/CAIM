@@ -1,0 +1,16 @@
+Standard | Lowercase | Snowball:
+104314 Words
+Standard | Lowercase | Porter_Stem:
+107191 Words
+Standard | Lowercase | Kstem:
+111772 Words
+Standard | Lowercase + Ascii | Snowball:
+104302 Words
+Standard | Lowercase + Ascii + Stop | Snowball:
+104292 Words
+Letter | Lowercase + Ascii + Stop | Snowball:
+70754 Words
+Whitespace | Lowercase + Ascii + Stop | Snowball:
+271713 Words
+Classic | Lowercase + Ascii + Stop | Snowball:
+107088 Words
