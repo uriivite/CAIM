@@ -128,7 +128,7 @@ class MRKmeansStep(MRJob):
         for doc in values:
             ndocs += 1
             occurs = Counter(doc[1]) # retorna un diccionari word : occurrencies
-            for word in doc[1]:
+            for word in occurs:
                 if word not in computed_words:
                     computed_words[word] = occurs[word]
                 else:
