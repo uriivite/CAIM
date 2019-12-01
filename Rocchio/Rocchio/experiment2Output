@@ -1,0 +1,54 @@
+nrounds = 6 | k = 4 | R = 1 | species weight = 1: 
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+
+nrounds = 4 | k = 4 | R = 1 | species weight = 1: 
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+
+nrounds = 3 | k = 4 | R = 1 | species weight = 1: 
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+
+nrounds = 6 | k = 4 | R = 2 | species weight = 1: 
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt', '/tmp/novels/27531-0.txt']
+
+nrounds = 5 | k = 3 | R = 2 | species weight = 1: 
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/27531-0.txt']
+
+nrounds = 4 | k = 3 | R = 2 | species weight = 1: 
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt']
+
+nrounds = 3 | k = 3 | R = 2 | species weight = 1: 
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt']
+
+nrounds = 4 | k = 3 | R = 2 | species weight = 6: 
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt']
+nrounds = 2 | k = 2 | R = 2 | species weight = 6: 
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt']
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt']
+nrounds = 4 | k = 4 | R = 4 | species weight = 6: 
+['/tmp/novels/DarwinOriginofSpecies.txt', '/tmp/novels/pg31796.txt', '/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol2.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt', '/tmp/novels/27531-0.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt', '/tmp/novels/27531-0.txt']
+['/tmp/novels/pg43550.txt', '/tmp/novels/PoeWorksVol1.txt', '/tmp/novels/pg34381.txt', '/tmp/novels/27531-0.txt']

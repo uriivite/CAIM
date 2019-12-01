@@ -1,0 +1,60 @@
+nrounds = 6 | k = 4 | R = 2 | weights = 1: 
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002391', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002391', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002391', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002391', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002391', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002391', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311']
+
+nrounds = 6 | k = 4 | R = 3 | weights = 1: 
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002391', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002391', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002391', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002391', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002391', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002391', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311']
+
+nrounds = 6 | k = 4 | R = 4 | weights = 1: 
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002391', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002345']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002345']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002345']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002345']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002311', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002345']
+
+nrounds = 10 | k = 4 | R = 2 | weights = apple: 20, windows 1: 
+['/tmp/20_newsgroups/misc.forsale/0006811', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004859', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004656', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004072']
+['/tmp/20_newsgroups/misc.forsale/0006811', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004859', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004656', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004072']
+['/tmp/20_newsgroups/misc.forsale/0006811', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004859', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004656', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004072']
+['/tmp/20_newsgroups/misc.forsale/0006811', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004859', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004656', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004072']
+['/tmp/20_newsgroups/misc.forsale/0006811', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004859', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004656', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004072']
+['/tmp/20_newsgroups/misc.forsale/0006811', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004859', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004656', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004046']
+['/tmp/20_newsgroups/misc.forsale/0006811', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004859', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004656', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004046']
+['/tmp/20_newsgroups/misc.forsale/0006811', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004859', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004656', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004046']
+['/tmp/20_newsgroups/misc.forsale/0006811', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004859', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004656', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004046']
+['/tmp/20_newsgroups/misc.forsale/0006811', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004859', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004656', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004046']
+
+nrounds = 10 | k = 4 | R = 3 | weights = apple: 20, windows 1: 
+['/tmp/20_newsgroups/misc.forsale/0006811', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004859', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004656', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004072']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004859']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004859']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004859']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004859']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004859']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004859']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004859']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004859']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004859']
+
+nrounds = 10 | k = 4 | R = 3 | weights = apple: 1, windows 10: 
+['/tmp/20_newsgroups/comp.os.ms-windows.misc/0002996', '/tmp/20_newsgroups/misc.forsale/0006433', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002816', '/tmp/20_newsgroups/comp.windows.x/0005821']
+['/tmp/20_newsgroups/comp.os.ms-windows.misc/0002996', '/tmp/20_newsgroups/misc.forsale/0006433', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002167', '/tmp/20_newsgroups/comp.windows.x/0005821']
+['/tmp/20_newsgroups/comp.os.ms-windows.misc/0002996', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002167', '/tmp/20_newsgroups/misc.forsale/0006433', '/tmp/20_newsgroups/comp.windows.x/0005821']
+['/tmp/20_newsgroups/comp.os.ms-windows.misc/0002996', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002167', '/tmp/20_newsgroups/comp.windows.x/0005821', '/tmp/20_newsgroups/misc.forsale/0006433']
+['/tmp/20_newsgroups/comp.os.ms-windows.misc/0002167', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002996', '/tmp/20_newsgroups/comp.windows.x/0005821', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004046']
+['/tmp/20_newsgroups/comp.os.ms-windows.misc/0002167', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002996', '/tmp/20_newsgroups/comp.windows.x/0005821']
+['/tmp/20_newsgroups/comp.os.ms-windows.misc/0002167', '/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002163', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002996']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002167', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002163', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002167', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002163', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684']
+['/tmp/20_newsgroups/comp.sys.mac.hardware/0004046', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002167', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002163', '/tmp/20_newsgroups/comp.os.ms-windows.misc/0002684']
+

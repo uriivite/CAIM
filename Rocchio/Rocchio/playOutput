@@ -1,0 +1,47 @@
+['toronto', 'nyc']
+ID= UGQa2m0Bb56QBN8goymQ SCORE=4.3645177
+PATH= /tmp/20_newsgroups/sci.med/0013128
+TEXT: Here is a press release from the Natural Resources
+-----------------------------------------------------------------
+ID= 62Ma2m0Bb56QBN8gk-g3 SCORE=4.3564816
+PATH= /tmp/20_newsgroups/talk.politics.misc/0018667
+TEXT: v140pxgt@ubvmsb.cc.buffalo.edu (Daniel B Case) wri
+-----------------------------------------------------------------
+ID= bWMa2m0Bb56QBN8gmPfH SCORE=3.6588225
+PATH= /tmp/20_newsgroups/talk.politics.guns/0015998
+TEXT: Jim De Arras (jmd@cube.handheld.com) wrote:
+: > La
+-----------------------------------------------------------------
+3 Documents
+-------------------------------------------------------------------------
+['toronto^2', 'nyc']
+ID= 62Ma2m0Bb56QBN8gk-g3 SCORE=7.3299394
+PATH= /tmp/20_newsgroups/talk.politics.misc/0018667
+TEXT: v140pxgt@ubvmsb.cc.buffalo.edu (Daniel B Case) wri
+-----------------------------------------------------------------
+ID= UGQa2m0Bb56QBN8goymQ SCORE=6.190094
+PATH= /tmp/20_newsgroups/sci.med/0013128
+TEXT: Here is a press release from the Natural Resources
+-----------------------------------------------------------------
+ID= bWMa2m0Bb56QBN8gmPfH SCORE=5.189223
+PATH= /tmp/20_newsgroups/talk.politics.guns/0015998
+TEXT: Jim De Arras (jmd@cube.handheld.com) wrote:
+: > La
+-----------------------------------------------------------------
+3 Documents
+-------------------------------------------------------------------------
+['toronto', 'nyc^2']
+ID= UGQa2m0Bb56QBN8goymQ SCORE=6.9034595
+PATH= /tmp/20_newsgroups/sci.med/0013128
+TEXT: Here is a press release from the Natural Resources
+-----------------------------------------------------------------
+ID= bWMa2m0Bb56QBN8gmPfH SCORE=5.7872453
+PATH= /tmp/20_newsgroups/talk.politics.guns/0015998
+TEXT: Jim De Arras (jmd@cube.handheld.com) wrote:
+: > La
+-----------------------------------------------------------------
+ID= 62Ma2m0Bb56QBN8gk-g3 SCORE=5.739505
+PATH= /tmp/20_newsgroups/talk.politics.misc/0018667
+TEXT: v140pxgt@ubvmsb.cc.buffalo.edu (Daniel B Case) wri
+-----------------------------------------------------------------
+3 Documents
