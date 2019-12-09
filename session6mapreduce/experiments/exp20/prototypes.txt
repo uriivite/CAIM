@@ -1,0 +1,8 @@
+CLASS0:compat+1.0 grid+1.0 section+1.0 shock+1.0 
+CLASS1:overcom+1.0 segment+1.0 
+CLASS2:bayesian+1.0 face+1.0 narrow+1.0 surround+1.0 
+CLASS3:deploy+1.0 excess+1.0 
+CLASS4:attempt+1.0 
+CLASS5:excess+1.0 modern+1.0 sun+1.0 
+CLASS6:shock+1.0 unifi+1.0 
+CLASS7:inde+1.0 itself+1.0 

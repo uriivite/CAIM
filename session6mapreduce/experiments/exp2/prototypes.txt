@@ -1,0 +1,3 @@
+CLASS0:correct+1.0 do+1.0 fix+1.0 frequenc+1.0 mode+1.0 presenc+1.0 surfac+1.0 typic+1.0 valid+1.0 
+CLASS1:abl+1.0 appear+1.0 contrast+1.0 could+1.0 flux+1.0 impact+1.0 layer+1.0 scenario+1.0 select+1.0 surfac+1.0 wave+1.0 would+1.0 
+CLASS2:among+1.0 area+1.0 becom+1.0 continu+1.0 contribut+1.0 finit+1.0 individu+1.0 map+1.0 nois+1.0 occur+1.0 probabl+1.0 variabl+1.0 

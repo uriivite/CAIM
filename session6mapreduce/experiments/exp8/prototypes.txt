@@ -1,0 +1,8 @@
+CLASS0:baryon+1.0 disc+1.0 steadi+1.0 
+CLASS1:emit+1.0 inject+1.0 puls+1.0 sight+1.0 tau+1.0 
+CLASS2:believ+1.0 burst+1.0 
+CLASS3:hidden+1.0 superior+1.0 supervis+1.0 
+CLASS4:circuit+1.0 done+1.0 go+1.0 logic+1.0 
+CLASS5:complic+1.0 compris+1.0 expens+1.0 scan+1.0 virtual+1.0 
+CLASS6:explan+1.0 life+1.0 million+1.0 
+CLASS7:recognit+1.0 

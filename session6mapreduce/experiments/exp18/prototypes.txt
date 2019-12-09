@@ -1,0 +1,8 @@
+CLASS0:earth+1.0 highlight+1.0 remov+1.0 scienc+1.0 
+CLASS1:coordin+1.0 static+1.0 verifi+1.0 
+CLASS2:concern+1.0 convex+1.0 
+CLASS3:age+1.0 attract+1.0 concern+1.0 entropi+1.0 implic+1.0 rise+1.0 true+1.0 
+CLASS4:astrophys+1.0 compress+1.0 conserv+1.0 kinet+1.0 turbul+1.0 
+CLASS5:absorpt+1.0 engin+1.0 extern+1.0 mobil+1.0 moment+1.0 
+CLASS6:age+1.0 color+1.0 filter+1.0 mathrm+1.0 merger+1.0 photometr+1.0 trend+1.0 
+CLASS7:color+1.0 histori+1.0 inner+1.0 kpc+1.0 

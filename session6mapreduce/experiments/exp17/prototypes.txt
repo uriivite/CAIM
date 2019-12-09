@@ -1,0 +1,8 @@
+CLASS0:repres+1.0 select+1.0 us+1.0 
+CLASS1:avail+1.0 shown+1.0 sim+1.0 
+CLASS2:map+1.0 veloc+1.0 
+CLASS3:averag+1.0 particl+1.0 surfac+1.0 veloc+1.0 
+CLASS4:extens+1.0 shown+1.0 
+CLASS5:accuraci+1.0 signal+1.0 
+CLASS6:assum+1.0 solv+1.0 
+CLASS7:do+1.0 probabl+1.0 select+1.0 

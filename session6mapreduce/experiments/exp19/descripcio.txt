@@ -1,0 +1,9 @@
+En aquest experiment els paràmetres van ser els mateixos que en l'experiment 8 però amb menys paraules:
+Freqüència mínima = 0.01
+Freqüència màxima = 0.02
+Número de paraules = 100
+Número de clústers inicials =8
+Número de cores utilitzats = 3
+
+Resultat:
+9 iteracions realitzades i 4 clústers finals

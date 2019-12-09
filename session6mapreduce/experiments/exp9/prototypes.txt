@@ -1,0 +1,10 @@
+CLASS0:creat+1.0 per+1.0 rapid+1.0 sum+1.0 
+CLASS1:below+1.0 broad+1.0 candid+1.0 especi+1.0 rule+1.0 yet+1.0 
+CLASS2:clear+1.0 embed+1.0 idea+1.0 influenc+1.0 node+1.0 promis+1.0 strength+1.0 
+CLASS3:accret+1.0 assess+1.0 clear+1.0 despit+1.0 down+1.0 geometri+1.0 growth+1.0 radius+1.0 what+1.0 
+CLASS4:against+1.0 dens+1.0 graviti+1.0 instead+1.0 taken+1.0 turn+1.0 
+CLASS5:asymptot+1.0 creat+1.0 essenti+1.0 famili+1.0 polynomi+1.0 restrict+1.0 sum+1.0 
+CLASS6:angl+1.0 atom+1.0 equal+1.0 geometr+1.0 graviti+1.0 influenc+1.0 per+1.0 place+1.0 smooth+1.0 squar+1.0 uniform+1.0 unit+1.0 
+CLASS7:action+1.0 almost+1.0 atom+1.0 descript+1.0 gaussian+1.0 medium+1.0 momentum+1.0 start+1.0 
+CLASS8:consider+1.0 famili+1.0 geometri+1.0 illustr+1.0 necessari+1.0 nonlinear+1.0 partial+1.0 transport+1.0 
+CLASS9:famili+1.0 guarante+1.0 iter+1.0 propag+1.0 regular+1.0 

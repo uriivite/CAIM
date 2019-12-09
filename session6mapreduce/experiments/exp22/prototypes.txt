@@ -1,0 +1,10 @@
+CLASS0:break+1.0 broad+1.0 conclud+1.0 distinct+1.0 down+1.0 latter+1.0 medium+1.0 mu+1.0 
+CLASS1:against+1.0 atom+1.0 chemic+1.0 clear+1.0 cosmic+1.0 creat+1.0 discret+1.0 drive+1.0 empir+1.0 halo+1.0 instead+1.0 lambda+1.0 metric+1.0 photon+1.0 planet+1.0 quantifi+1.0 
+CLASS2:concept+1.0 creat+1.0 down+1.0 influenc+1.0 momentum+1.0 proof+1.0 propag+1.0 sens+1.0 seri+1.0 
+CLASS3:basi+1.0 last+1.0 mathemat+1.0 metric+1.0 public+1.0 radial+1.0 subject+1.0 
+CLASS4:aspect+1.0 concentr+1.0 drive+1.0 especi+1.0 formal+1.0 grow+1.0 overal+1.0 pressur+1.0 resourc+1.0 rule+1.0 subject+1.0 what+1.0 
+CLASS5:asymptot+1.0 choic+1.0 geometri+1.0 gradient+1.0 guarante+1.0 iter+1.0 promis+1.0 stochast+1.0 what+1.0 
+CLASS6:abund+1.0 amplitud+1.0 arbitrari+1.0 especi+1.0 halo+1.0 lambda+1.0 might+1.0 odot+1.0 output+1.0 reproduc+1.0 rich+1.0 
+CLASS7:bias+1.0 down+1.0 hold+1.0 latter+1.0 minimum+1.0 share+1.0 substanti+1.0 
+CLASS8:action+1.0 arbitrari+1.0 asymptot+1.0 drive+1.0 exponenti+1.0 illustr+1.0 path+1.0 place+1.0 polynomi+1.0 reflect+1.0 stochast+1.0 theorem+1.0 
+CLASS9:acceler+1.0 angl+1.0 assess+1.0 conclus+1.0 convolut+1.0 overal+1.0 purpos+1.0 radial+1.0 sens+1.0 volum+1.0 

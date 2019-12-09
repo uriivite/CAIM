@@ -1,0 +1,12 @@
+En aquest experiment els paràmetres van ser:
+Freqüència mínima = 0.01
+Freqüència màxima = 0.02
+Número de paraules = 200
+Número de clústers inicials = 10
+Número de cores utilitzats = 3
+
+Resultat:
+50 iteracions realitzades i 4 clústers finals
+
+Després d'aquest experiment ens vam adonar que el valor de la freqüència era massa baixa, pel que seria complicat acabar de convergir. Vam decidir augmentar una mica
+el rang de freqüències.

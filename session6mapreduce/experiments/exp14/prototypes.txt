@@ -1,0 +1,5 @@
+CLASS0:astrophys+1.0 earth+1.0 itself+1.0 morpholog+1.0 now+1.0 
+CLASS1:longer+1.0 
+CLASS2:dual+1.0 earlier+1.0 five+1.0 freedom+1.0 gaug+1.0 half+1.0 top+1.0 uv+1.0 
+CLASS3:decomposit+1.0 matric+1.0 methodolog+1.0 perspect+1.0 unifi+1.0 
+CLASS4:attract+1.0 axi+1.0 earth+1.0 giant+1.0 outer+1.0 span+1.0 

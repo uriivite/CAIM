@@ -1,0 +1,10 @@
+CLASS0:approx+1.0 earlier+1.0 kinemat+1.0 prefer+1.0 qualit+1.0 slow+1.0 spheric+1.0 
+CLASS1:bayesian+1.0 carlo+1.0 five+1.0 loop+1.0 mont+1.0 
+CLASS2:fine+1.0 grain+1.0 manag+1.0 monitor+1.0 secur+1.0 
+CLASS3:actual+1.0 axi+1.0 favor+1.0 littl+1.0 relativist+1.0 satellit+1.0 seem+1.0 
+CLASS4:earth+1.0 manner+1.0 satellit+1.0 
+CLASS5:divers+1.0 geq+1.0 rough+1.0 
+CLASS6:built+1.0 flat+1.0 frac+1.0 get+1.0 
+CLASS7:benefit+1.0 conjectur+1.0 loop+1.0 phenomena+1.0 
+CLASS8:astrophys+1.0 collaps+1.0 isol+1.0 merger+1.0 synthet+1.0 
+CLASS9:adversari+1.0 deform+1.0 face+1.0 leverag+1.0 pose+1.0 

@@ -1,0 +1,8 @@
+CLASS0:narrow+1.0 
+CLASS1:act+1.0 alreadi+1.0 overcom+1.0 treat+1.0 
+CLASS2:cool+1.0 expand+1.0 hot+1.0 insid+1.0 late+1.0 phenomena+1.0 plasma+1.0 trajectori+1.0 
+CLASS3:approx+1.0 re+1.0 track+1.0 
+CLASS4:carlo+1.0 ioniz+1.0 kpc+1.0 mont+1.0 seem+1.0 true+1.0 uv+1.0 
+CLASS5:decomposit+1.0 desir+1.0 easili+1.0 fail+1.0 pose+1.0 
+CLASS6:absenc+1.0 attribut+1.0 fail+1.0 inde+1.0 
+CLASS7:act+1.0 attract+1.0 attribut+1.0 mobil+1.0 molecul+1.0 moment+1.0 organ+1.0 revers+1.0 review+1.0 

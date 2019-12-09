@@ -1,0 +1,10 @@
+CLASS0:approx+1.0 carlo+1.0 hybrid+1.0 mont+1.0 site+1.0 
+CLASS1:giant+1.0 just+1.0 littl+1.0 thick+1.0 young+1.0 
+CLASS2:benefit+1.0 leq+1.0 spars+1.0 
+CLASS3:behaviour+1.0 methodolog+1.0 social+1.0 
+CLASS4:approx+1.0 collaps+1.0 cool+1.0 expand+1.0 hot+1.0 shock+1.0 supernova+1.0 surround+1.0 tend+1.0 thick+1.0 
+CLASS5:ensur+1.0 protocol+1.0 situat+1.0 updat+1.0 
+CLASS6:bayesian+1.0 
+CLASS7:act+1.0 axi+1.0 behaviour+1.0 diagram+1.0 largest+1.0 pi+1.0 re+1.0 super+1.0 
+CLASS8:diagram+1.0 revers+1.0 tend+1.0 
+CLASS9:handl+1.0 hybrid+1.0 manner+1.0 methodolog+1.0 

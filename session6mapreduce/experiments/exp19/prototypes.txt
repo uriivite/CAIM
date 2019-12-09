@@ -1,0 +1,8 @@
+CLASS0:live+1.0 
+CLASS1:modif+1.0 
+CLASS2:alon+1.0 
+CLASS3:markov+1.0 mission+1.0 who+1.0 
+CLASS4:expens+1.0 
+CLASS5:coincid+1.0 
+CLASS6:canon+1.0 specifi+1.0 suffer+1.0 
+CLASS7:autom+1.0 categori+1.0 

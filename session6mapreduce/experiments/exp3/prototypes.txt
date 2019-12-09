@@ -1,0 +1,20 @@
+CLASS0:along+1.0 dataset+1.0 distanc+1.0 enabl+1.0 extens+1.0 key+1.0 massiv+1.0 often+1.0 probabl+1.0 product+1.0 scheme+1.0 sensit+1.0 
+CLASS1:aim+1.0 although+1.0 around+1.0 be+1.0 contain+1.0 cost+1.0 flow+1.0 often+1.0 probabl+1.0 search+1.0 typic+1.0 yield+1.0 
+CLASS2:account+1.0 area+1.0 becom+1.0 cluster+1.0 establish+1.0 explain+1.0 flow+1.0 induc+1.0 open+1.0 particl+1.0 product+1.0 radiat+1.0 sinc+1.0 total+1.0 weak+1.0 
+CLASS3:becaus+1.0 cluster+1.0 common+1.0 constrain+1.0 fraction+1.0 futur+1.0 good+1.0 group+1.0 matter+1.0 much+1.0 precis+1.0 project+1.0 resolut+1.0 stellar+1.0 survey+1.0 univers+1.0 veloc+1.0 yield+1.0 
+CLASS4:analyt+1.0 assum+1.0 common+1.0 domin+1.0 exhibit+1.0 explain+1.0 few+1.0 finit+1.0 infer+1.0 magnet+1.0 sensit+1.0 therefor+1.0 weak+1.0 
+CLASS5:becaus+1.0 environ+1.0 formul+1.0 fraction+1.0 minim+1.0 scenario+1.0 select+1.0 sensit+1.0 solv+1.0 step+1.0 task+1.0 therefor+1.0 total+1.0 typic+1.0 wave+1.0 
+CLASS6:context+1.0 detail+1.0 implement+1.0 involv+1.0 open+1.0 research+1.0 scheme+1.0 sinc+1.0 still+1.0 tool+1.0 valid+1.0 would+1.0 year+1.0 zero+1.0 
+CLASS7:aim+1.0 around+1.0 classic+1.0 distanc+1.0 do+1.0 domin+1.0 emiss+1.0 environ+1.0 gas+1.0 group+1.0 impact+1.0 larger+1.0 less+1.0 locat+1.0 massiv+1.0 presenc+1.0 probabl+1.0 project+1.0 role+1.0 stellar+1.0 
+CLASS8:appear+1.0 domin+1.0 electron+1.0 finit+1.0 frequenc+1.0 layer+1.0 mode+1.0 pair+1.0 tool+1.0 wave+1.0 
+CLASS9:abl+1.0 accur+1.0 avail+1.0 becaus+1.0 constant+1.0 constrain+1.0 precis+1.0 should+1.0 therefor+1.0 univers+1.0 vari+1.0 would+1.0 year+1.0 
+CLASS10:abl+1.0 activ+1.0 averag+1.0 certain+1.0 code+1.0 implement+1.0 less+1.0 part+1.0 practic+1.0 select+1.0 step+1.0 success+1.0 surfac+1.0 tool+1.0 
+CLASS11:around+1.0 averag+1.0 constrain+1.0 deep+1.0 domin+1.0 emiss+1.0 evid+1.0 exhibit+1.0 few+1.0 free+1.0 gas+1.0 orbit+1.0 presenc+1.0 project+1.0 separ+1.0 sim+1.0 surfac+1.0 
+CLASS12:area+1.0 electron+1.0 element+1.0 establish+1.0 few+1.0 magnet+1.0 particl+1.0 product+1.0 ray+1.0 report+1.0 separ+1.0 task+1.0 variat+1.0 
+CLASS13:averag+1.0 control+1.0 enabl+1.0 good+1.0 vari+1.0 
+CLASS14:abov+1.0 activ+1.0 aim+1.0 assum+1.0 averag+1.0 band+1.0 better+1.0 context+1.0 could+1.0 distanc+1.0 dure+1.0 emiss+1.0 flow+1.0 flux+1.0 locat+1.0 magnet+1.0 maximum+1.0 optic+1.0 period+1.0 ray+1.0 scenario+1.0 search+1.0 select+1.0 spectral+1.0 spectrum+1.0 us+1.0 variabl+1.0 would+1.0 
+CLASS15:distanc+1.0 interpret+1.0 matrix+1.0 step+1.0 us+1.0 
+CLASS16:assum+1.0 better+1.0 common+1.0 control+1.0 do+1.0 fundament+1.0 ii+1.0 induc+1.0 magnitud+1.0 matrix+1.0 minim+1.0 
+CLASS17:abl+1.0 accur+1.0 behavior+1.0 dimens+1.0 domain+1.0 exhibit+1.0 finit+1.0 input+1.0 minim+1.0 project+1.0 surfac+1.0 variat+1.0 
+CLASS18:becom+1.0 behavior+1.0 correct+1.0 critic+1.0 magnet+1.0 pair+1.0 practic+1.0 weak+1.0 
+CLASS19:could+1.0 do+1.0 doe+1.0 finit+1.0 furthermor+1.0 resolut+1.0 spatial+1.0 total+1.0 

@@ -1,0 +1,8 @@
+CLASS0:actual+1.0 divers+1.0 kinet+1.0 largest+1.0 
+CLASS1:gaug+1.0 relativist+1.0 synthet+1.0 variant+1.0 
+CLASS2:articl+1.0 communiti+1.0 just+1.0 languag+1.0 modern+1.0 past+1.0 perspect+1.0 
+CLASS3:fermi+1.0 half+1.0 
+CLASS4:half+1.0 narrow+1.0 nearbi+1.0 span+1.0 synthet+1.0 tight+1.0 
+CLASS5:handl+1.0 inde+1.0 inspir+1.0 progress+1.0 updat+1.0 
+CLASS6:adversari+1.0 handl+1.0 secur+1.0 slight+1.0 synthet+1.0 
+CLASS7:actual+1.0 adversari+1.0 easili+1.0 therebi+1.0 

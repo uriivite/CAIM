@@ -1,0 +1,10 @@
+CLASS0:convex+1.0 iter+1.0 omega+1.0 pure+1.0 seem+1.0 subset+1.0 
+CLASS1:abil+1.0 automat+1.0 desir+1.0 deviat+1.0 easili+1.0 entir+1.0 subsequ+1.0 
+CLASS2:approx+1.0 bias+1.0 halo+1.0 reflect+1.0 trend+1.0 
+CLASS3:half+1.0 incorpor+1.0 instrument+1.0 intern+1.0 reflect+1.0 
+CLASS4:alreadi+1.0 appropri+1.0 avoid+1.0 basi+1.0 compress+1.0 get+1.0 re+1.0 recov+1.0 spars+1.0 tensor+1.0 
+CLASS5:carlo+1.0 chain+1.0 giant+1.0 mont+1.0 notion+1.0 now+1.0 oscil+1.0 photometr+1.0 preserv+1.0 releas+1.0 
+CLASS6:automat+1.0 encod+1.0 famili+1.0 joint+1.0 pre+1.0 rank+1.0 span+1.0 third+1.0 
+CLASS7:befor+1.0 carlo+1.0 entir+1.0 intermedi+1.0 lattic+1.0 mont+1.0 reson+1.0 taken+1.0 
+CLASS8:act+1.0 block+1.0 enough+1.0 famili+1.0 omega+1.0 recov+1.0 symmetr+1.0 width+1.0 
+CLASS9:convolut+1.0 ensur+1.0 rank+1.0 rule+1.0 

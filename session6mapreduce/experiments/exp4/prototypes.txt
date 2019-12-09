@@ -1,0 +1,10 @@
+CLASS0:inter+1.0 
+CLASS1:complement+1.0 discrimin+1.0 topic+1.0 
+CLASS2:aggreg+1.0 load+1.0 reaction+1.0 storag+1.0 
+CLASS3:diverg+1.0 orthogon+1.0 root+1.0 specifi+1.0 
+CLASS4:assembl+1.0 excel+1.0 opportun+1.0 
+CLASS5:attack+1.0 collabor+1.0 hidden+1.0 inject+1.0 keep+1.0 pictur+1.0 recognit+1.0 superior+1.0 
+CLASS6:discrep+1.0 
+CLASS7:denot+1.0 
+CLASS8:einstein+1.0 manifold+1.0 
+CLASS9:alon+1.0 durat+1.0 secondari+1.0 
